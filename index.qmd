@@ -5,8 +5,8 @@ about:
   links: 
     - text: LinkedIn
       href: https://www.linkedin.com/in/mark-velthoen-800a9032a/
-      - text: Email
-        href: mailto:markvelthoen1@gmail.com
+    - text: Email
+      href: mailto:markvelthoen1@gmail.com
 ---
 
 # Mark Velthoen
