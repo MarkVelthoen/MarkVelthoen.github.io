@@ -1,7 +1,14 @@
 ---
-title: "MarkVelthoen.github.io"
+title: "Mark Velthoen"
+about: 
+  template: jolla
+  links: 
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/mark-velthoen-800a9032a/
+      - text: Email
+        href: mailto:markvelthoen1@gmail.com
 ---
 
-```{r}
-library(usethis)
-```
+# Mark Velthoen
+
+Hello! I'm Mark Velthoen, a current undergraduate student at University of California, Santa Barbara. I am studying Hydrologic Sciences and Policy and am interested in California water systems and sustainable water management. Outside of my education, I love to hike, play sports (tennis and basketball) and enjoy sunny Santa Barbara. Check out my website to learn more!
