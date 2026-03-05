@@ -1,5 +1,6 @@
 ---
 title: "Mark Velthoen"
+image: headshot.png
 about: 
   template: jolla
   links: 
