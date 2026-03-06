@@ -1,3 +1,4 @@
 ---
 title: "About Me"
+image: IMG_0461.JPG
 ---

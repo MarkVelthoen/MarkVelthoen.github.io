@@ -12,6 +12,11 @@ website:
         text: About
       - href: projects.qmd
         text: Education
+      - href: projects_page.qmd
+        text: Projects
+      - href: resume.qmd
+        text: Resume
+
 
 format:
   html:
