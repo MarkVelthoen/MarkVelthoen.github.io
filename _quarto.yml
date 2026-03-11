@@ -14,7 +14,7 @@ website:
         text: Education
       - href: project_page.qmd
         text: Projects
-      - href: Mark Velthoen's Resume (13).pdf
+      - href: resume.pdf
         text: Resume
         target: _blank
   
