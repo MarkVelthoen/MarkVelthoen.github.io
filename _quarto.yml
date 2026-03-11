@@ -14,9 +14,8 @@ website:
         text: Education
       - href: project_page.qmd
         text: Projects
-      - href: resume.pdf
+      - href: resume.qmd
         text: Resume
-        target: _blank
   
 
 format:
