@@ -1,5 +1,6 @@
 ---
-title: "essay"
+title: "Human Nature Relationship - Case Study"
 format: html
 ---
 
+{{< pdf HNR_case_study.pdf width=800 height=600 >}}
