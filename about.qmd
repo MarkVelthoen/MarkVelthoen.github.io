@@ -3,8 +3,10 @@ title: "About Me"
 image: IMG_0461.JPG
 ---
 
-::: {layout="[[1, 1]]"}
-![](images/IMG_0460.JPG){group="aa" description="Study abroad in Chile!" width="375"}
+::: {layout="[[1, 1, 1]]"}
+![Study abroad in Chile!](images/IMG_0460.JPG){width="375"}
 
-![](images/IMG_9471-01.JPG){group="aa" description="Backpacking in Washington" width="375"}
+![Backpacking in Washington!](images/IMG_9471-01.JPG){group="aa" description="Backpacking in Washington" width="375"}
+
+![Taking weather readings for class!](images/clipboard-2394377220.jpeg){width="375"}
 :::
