@@ -17,9 +17,7 @@ website:
       - href: Mark Velthoen's Resume (13).pdf
         text: Resume
         target: _blank
-      page-footer:
-        background: light
-
+  
 
 format:
   html:
