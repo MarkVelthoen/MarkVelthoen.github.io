@@ -1,6 +1,7 @@
 ---
 title: "Human Nature Relationship - Case Study"
 format: html
+image: villarica.jpg
 ---
 
 {{< pdf HNR_case_study.pdf width=800 height=600 >}}
