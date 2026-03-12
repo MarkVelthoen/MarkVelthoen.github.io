@@ -1,6 +1,7 @@
 ---
 title: "Water Conservation in Southern California"
 format: html
+image: water_image.jpeg
 ---
 
 {{< pdf water_essay.pdf width=800 height=600 >}}

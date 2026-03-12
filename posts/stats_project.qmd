@@ -1,0 +1,7 @@
+---
+title: "ENVS 193DS Midterm"
+format: html
+image: stats_image.jpg
+---
+
+{{< pdf midterm.pdf width=800 height=600 >}}
