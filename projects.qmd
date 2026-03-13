@@ -3,6 +3,8 @@ title: "Relevant Coursework"
 format: html
 ---
 
+![](images/clipboard-1758801503.jpeg)
+
 ## Groundwater Hydrology
 
 Description: Analysis of groundwater flow in complex geologic environments, aquifer properties, wells and groundwater contamination, surface water-groundwater interactions. The laboratories included basic groundwater experiments, Darcy's law, flow nets, solute dispersion, field measurements of bedrock groundwater, analysis of pumping-test data.
