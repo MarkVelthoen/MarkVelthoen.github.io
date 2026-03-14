@@ -20,8 +20,9 @@ website:
 
 format:
   html:
+    mainfont: Nunito
     theme: cosmo
-    css: styles.css
+    css: styles.scss
     toc: true
     page-layout: full
 
